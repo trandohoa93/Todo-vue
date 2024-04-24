@@ -1,24 +1,7 @@
-# todo
-
-## Project setup
-```
-yarn install
-```
-
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
-
-### Compiles and minifies for production
-```
-yarn build
-```
-
-### Lints and fixes files
-```
-yarn lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## API
+* Sử dụng dummyJSON: https://dummyjson.com/docs/todos
+## Styling
+* Sử dụng Tailwind CSS
+## Chức năng 
+* Có các chức năng thêm, sửa, xóa
+* Có lưu trữ dữ liệu vào localStorage
